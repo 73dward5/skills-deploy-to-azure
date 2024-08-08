@@ -8,7 +8,6 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   DOCKER_IMAGE_NAME: 73dward5-azure-ttt
   AZURE_WEBAPP_NAME: 73dward5-ttt-app
-  ###############################################
 
 jobs:
   build:
