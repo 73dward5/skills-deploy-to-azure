@@ -63,7 +63,7 @@ To deploy successfully to our Azure environment:
       ###############################################
       ### Replace <username> with GitHub username ###
       ###############################################
-      AZURE_WEBAPP_NAME: <username>-ttt-app
+      AZURE_WEBAPP_NAME: 73dward5-ttt-app
 
     jobs:
       setup-up-azure-resources:
